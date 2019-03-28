@@ -1,4 +1,3 @@
-Hello, this directory will be useful to store files from Computational Methods in Mecanichs lessons
-Repository to store Matlab stuff.
+Hello, this directory will be useful to store files relative to 4th assignment.
 
-18.2.19
+28.3.19
